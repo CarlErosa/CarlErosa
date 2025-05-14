@@ -16,7 +16,7 @@
 
 ### 📊 GitHub Stats
 - ⭐ 2 Stars ・ 👀 63 Contributions
-- 🔁 ~3.82 commits/day ・ 🔥 Current Streak: 2 days
+- 🔁 3.82 commits/day ・ 🔥 Current Streak: 2 days
 
 ---
 
