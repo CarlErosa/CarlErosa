@@ -1,76 +1,28 @@
-# GitHub metrics
+# 👋 Hi, I'm Carl Erosa
 
-![Profile Image](https://avatars.githubusercontent.com/u/xxxxxx?v=4)
-
-## Carl Erosa
-
-- **Joined GitHub:** 4 years ago  
-- **Followers:** 31  
-- **Repositories:** 19  
-- **Pinned:** MIT license  
-- **Stars:** 12  
-- **Forks:** 2  
-- **Packages:** 12  
-- **Disk Usage:** 1.28 GB used  
-- **Commits:** 1.52m added, 1.37k removed  
+🚀 Passionate developer with a knack for crafting clean, high-performance web solutions.  
+🧠 Constantly learning and building tools that help solve real-world problems.
 
 ---
 
-### Coding habits and recent activity
-
-- **Commit activity per time of the day:**  
-  ![Commit activity graph](https://metrics.lecoq.io/api/commit-activity)
-
-- **Language activity:**  
-  ![Language activity graph](https://metrics.lecoq.io/api/language-activity)
-
----
-
-### Mastered technologies and topics
-
-![Technologies](https://metrics.lecoq.io/api/technologies)
+### 🧾 About Me
+- 🔭 Working on roadmap and productivity tools.
+- 🧠 Focused on **JavaScript**, **Vue**, and **full-stack development**.
+- 💻 Contributed to **5+ open-source repositories**.
+- 📦 Built **19 repositories** with over **32 releases** and **1 package**.
+- ⚖️ Preferred License: **MIT**
+- 🌐 Website: [simon.lecoq.io](https://simon.lecoq.io)
 
 ---
 
-### PageSpeed Insights
-
-- **Performance:** 97  
-- **Accessibility:** 100  
-- **Best Practices:** 100  
-- **SEO:** 100  
+### 📊 GitHub Stats
+- ⭐ 147 Stars ・ 🍴 16 Forks ・ 👀 23 Watchers
+- 💾 1.82 GB used ・ 📈 1.52M lines added, 379k lines removed
+- 🔁 ~3.82 commits/day ・ 🔥 Current Streak: 2 days
 
 ---
 
-### Contributions calendar
-
-![Contributions calendar](https://metrics.lecoq.io/api/contributions-calendar)
-
-- **Current streak:** 2 weeks  
-- **Average:** ~3.82 commits per day  
-
----
-
-### Suggested tracks
-
-- **From Apple Music:**  
-  - Bipolar Nightmare  
-  - Nurture  
-  - Mutant  
-
----
-
-### Most used languages
-
-![Languages bar](https://metrics.lecoq.io/api/languages-bar)
-
-- **JavaScript** | **C#** | **Python** | **TypeScript** | **PowerShell**
-
----
-
-### Project
-
-- [metrics.lecoq.io](https://metrics.lecoq.io)
-
----
-
-> _Developer Program Member_
+### 🧠 Technologies & Tools
+```bash
+JavaScript · TypeScript · Vue · HTML · CSS · Python · C++ · C · PowerShell
+Git · Docker · AWS · Firebase · MongoDB · Arduino · Raspberry Pi · Linux · iOS
