@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Carl Erosa
 
-🚀 Passionate developer with a knack for crafting clean, high-performance web solutions.  
+🚀 Passionate developer with a knack for crafting clean web solutions.  
 🧠 Constantly learning and building tools that help solve real-world problems.
 
 ---
