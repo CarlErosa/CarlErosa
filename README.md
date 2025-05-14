@@ -22,5 +22,5 @@
 
 ### 🧠 Technologies & Tools
 ```bash
-JavaScript · TypeScript · Vue · HTML · CSS · Python · C++ · C · PowerShell
-Git · Docker · AWS · Firebase · MongoDB · Arduino · Raspberry Pi · Linux · iOS
+JavaScript · TypeScript  · HTML · CSS · Python · PowerShell
+Git ·  
