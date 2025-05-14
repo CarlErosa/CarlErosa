@@ -1,6 +1,6 @@
 <!-- README.md -->
 
-<h1 align="center">Hi, I'm Simon Lecoq 👋</h1>
+<h1 align="center">Hi, I'm Carl Erosa 👋</h1>
 
 ## 🧑‍💻 Coding Knowledge
 
