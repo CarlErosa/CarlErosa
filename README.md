@@ -14,12 +14,6 @@
 
 ---
 
-### 📊 GitHub Stats
-- ⭐ 2 Stars ・ 👀 78 Contributions
-- 🔁 3.82 commits/day ・ 🔥 Current Streak: 3 days
-
----
-
 ### 🧠 Technologies & Tools
 ```bash
 JavaScript · TypeScript  · HTML · CSS · Python · PowerShell · Git ·  
