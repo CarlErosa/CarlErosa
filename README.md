@@ -14,6 +14,6 @@
 
 ---
 
-### 🧠 Technologies & Tools
+### 🧠 Technologies & Tool
 ```bash
 JavaScript · TypeScript  · HTML · CSS · Python · PowerShell · Git ·  
