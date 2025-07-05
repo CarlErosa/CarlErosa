@@ -7,7 +7,7 @@
 
 ### 🧾 About Me
 - 🔭 Studying Computer Engineering
-- 🧠 Focus on Front End , but working on being a full-stack
+- 🧠 Aspiring UI/UX Designer and Frontend Developer
 - 💻 Have experience into small-medium large projects
 - 📦 Built 2 small-size website and 1 large-scale website
 - ⚖️ Preferred License: **MIT**
