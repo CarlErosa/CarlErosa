@@ -16,4 +16,4 @@
 
 ### 🧠 Technologies & Tool
 ```bash
-JavaScript · TypeScript  · HTML · CSS · Python · PowerShell · Git ·  
+JavaScript · TypeScript  · HTML · CSS · Python · PowerShell · Git ·  NextJS · React 
