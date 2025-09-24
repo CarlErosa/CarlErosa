@@ -9,11 +9,11 @@
 - 🔭 Studying Computer Engineering
 - 🧠 Aspiring UI/UX Designer and Frontend Developer
 - 💻 Have experience into small-medium large projects
-- 📦 Built 5 small-size website and 1 large-scale website
+- 📦 Built website scaling from small to large scale
 - ⚖️ Preferred License: **MIT**
 
 ---
 
 ### 🧠 Technologies & Tool
 ```bash
-JavaScript · TypeScript  · HTML · CSS · Python · PowerShell · Git ·  NextJS · React 
+JavaScript · TypeScript  · HTML · CSS · Python · PowerShell · Git ·  NextJS · React· Vite
