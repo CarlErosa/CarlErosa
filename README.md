@@ -7,10 +7,10 @@
 
 ### 🧾 About Me
 - 🔭 Studying Computer Engineering
-- 🧠 Aspiring Fullstack Developer
-- 💻 Have experience into small-medium large projects
+- 🧠 Aspiring Cloud Engineer
+- 💻 Have experience real-world system
 - 📦 Built website scaling from small to large scale
-- ⚖️ Preferred License: **MIT**
+
 
 ---
 
