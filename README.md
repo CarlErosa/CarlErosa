@@ -28,7 +28,7 @@ I'm Carl, a BS Computer Engineering student who learns by breaking things and fi
 
 ## ◆ Projects
 
-- **📦 Solo System** — a Solo Leveling-inspired habit-tracking RPG, quests and stats for real life · `Next.js` `Supabase` `Claude API`
+- **🌱 Verde** — Tansforms construction project management through data-driven ESG tracking · `Next.js` `Supabase`
 - **☁️ Cloud Diary** — dockerized journal app deployed end-to-end on AWS EC2 + RDS · `Docker` `nginx`
 - **🌱 Tanikala** — AgriAdmin dashboard with blockchain pest early-warning, cleared Stage 1 of the APAC Stellar Hackathon · `React` `Stellar`
 - **🤖 hani-bot** — Discord standup tracker keeping a small team honest · `Node.js` `SQLite`
