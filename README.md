@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:24243e&height=200&section=header&text=Level%20Up.%20Ship%20Code.%20Repeat.&fontSize=32&fontColor=a78bfa&animation=fadeIn&fontAlignY=45" width="100%"/>
 
-<h2>Carl Erosa</h2>
+<h2>Carl Melvin Erosa</h2>
 <sub>Computer Engineering student turning cloud infrastructure into a habit, one deploy at a time</sub>
 
 <br/><br/>
