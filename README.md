@@ -1,10 +1,3 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:24243e&height=200&section=header&text=Level%20Up.%20Ship%20Code.%20Repeat.&fontSize=32&fontColor=a78bfa&animation=fadeIn&fontAlignY=45" width="100%"/>
-
-</div>
-
-
 ## ◆ About
 
 I'm Carl, a BS Computer Engineering student who learns by breaking things and fixing them properly. Right now that curiosity is split between cloud infrastructure and shipping side projects that actually run in production, not just tutorials.
