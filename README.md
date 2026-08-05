@@ -4,7 +4,7 @@ I'm Carl, a BS Computer Engineering student who learns by breaking things and fi
 
 - 🎓 Studying Computer Engineering at PUP Manila, currently on OJT at AAI Worldwide
 - ☁️ Building a one-year roadmap toward AWS/Azure certification, homelab-first
-- 🧩 for Technology at ICpEP.SE–PUP
+- 🧩 VP for Technology at ICpEP.SE–PUP
 
 
 
