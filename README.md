@@ -21,7 +21,14 @@ BS Computer Engineering student building toward cloud engineering — hands-on p
 <br/>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=CarlErosa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=c9d1d9&hide_rank=true" width="55%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=CarlErosa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=c9d1d9&hide_rank=true" width="48%"/>
+<img src="https://streak-stats.demolab.com/?user=CarlErosa&theme=tokyonight&hide_border=true&background=0d1117&ring=8b5cf6&fire=a78bfa&currStreakLabel=a78bfa" width="48%"/>
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/CarlErosa/CarlErosa/output/github-contribution-grid-snake-dark.svg" width="80%"/>
 </div>
 
 <br/>
