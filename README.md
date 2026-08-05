@@ -60,7 +60,6 @@ I'm Carl, a BS Computer Engineering student who learns by breaking things and fi
 
 <sub><i>Every grind counts, even the ones nobody watches.</i></sub>
 
-<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=CarlErosa&label=Profile+Views&color=8b5cf6&style=flat-square" alt="profile views"/>
 <a href="https://www.linkedin.com/in/carl-melvin-erosa-4805b4304/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
@@ -68,7 +67,6 @@ I'm Carl, a BS Computer Engineering student who learns by breaking things and fi
 <a href="https://www.tiktok.com/@devwcarl"><img src="https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white"/></a>
 
 
-<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:1a1a2e,100:0d1117&height=100&section=footer" width="100%"/>
 
