@@ -1,15 +1,7 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:24243e&height=200&section=header&text=Level%20Up.%20Ship%20Code.%20Repeat.&fontSize=32&fontColor=a78bfa&animation=fadeIn&fontAlignY=45" width="100%"/>
-
-<h2>Carl Melvin Erosa</h2>
-<sub>Computer Engineering student turning cloud infrastructure into a habit, one deploy at a time</sub>
-
 <br/><br/>
-
-<a href="https://www.linkedin.com/in/carl-melvin-erosa-4805b4304/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:carlmelvinerosa3@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="https://www.tiktok.com/@devwcarl"><img src="https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white"/></a>
 
 </div>
 
@@ -84,5 +76,10 @@ I'm Carl, a BS Computer Engineering student who learns by breaking things and fi
 <br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:1a1a2e,100:0d1117&height=100&section=footer" width="100%"/>
+
+
+<a href="https://www.linkedin.com/in/carl-melvin-erosa-4805b4304/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:carlmelvinerosa3@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://www.tiktok.com/@devwcarl"><img src="https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white"/></a>
 
 </div>
