@@ -21,8 +21,7 @@ I'm Carl, a BS Computer Engineering student who learns by breaking things and fi
 
 - 🎓 Studying Computer Engineering at PUP Manila, currently on OJT at AAI Worldwide
 - ☁️ Building a one-year roadmap toward AWS/Azure certification, homelab-first
-- 🧩 Director of Engineering & VP for Technology at ICpEP.SE–PUP
-- ⚔️ Building a Solo Leveling-inspired habit-tracking RPG in my free time
+- 🧩 for Technology at ICpEP.SE–PUP
 
 <br/>
 
