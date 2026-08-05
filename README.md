@@ -173,8 +173,6 @@ fun_facts:
 
 <img src="https://img.shields.io/badge/Google_IT_Support-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 <img src="https://img.shields.io/badge/Azure_Fundamentals-In_Progress-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/ISC2_CC-In_Progress-CC2927?style=for-the-badge&logo=isc2&logoColor=white"/>
-
 </div>
 
 <br/>
