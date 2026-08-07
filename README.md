@@ -6,17 +6,6 @@ I'm Carl, a BS Computer Engineering student who learns by breaking things and fi
 - ☁️ Building a one-year roadmap toward AWS/Azure certification, homelab-first
 - 🧩 VP for Technology at ICpEP.SE–PUP
 
-
-
-## ◆ Projects
-
-- **🌱 Verde** — Tansforms construction project management through data-driven ESG tracking · `Next.js` `Supabase`
-- **☁️ Cloud Diary** — dockerized journal app deployed end-to-end on AWS EC2 + RDS · `Docker` `nginx`
-- **🌱 Tanikala** — AgriAdmin dashboard with blockchain pest early-warning, cleared Stage 1 of the APAC Stellar Hackathon · `React` `Stellar`
-- **🤖 hani-bot** — Discord standup tracker keeping a small team honest · `Node.js` `SQLite`
-
-<br/>
-
 ## ◆ Technologies
 
 <p>
