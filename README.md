@@ -1,4 +1,4 @@
-## ◆ About
+## About
 
 I'm Carl, a BS Computer Engineering student who learns by breaking things and fixing them properly. Right now that curiosity is split between cloud infrastructure and shipping side projects that actually run in production, not just tutorials.
 
@@ -6,7 +6,7 @@ I'm Carl, a BS Computer Engineering student who learns by breaking things and fi
 - ☁️ Building a one-year roadmap toward AWS/Azure certification, homelab-first
 - 🧩 VP for Technology at ICpEP.SE–PUP
 
-## ◆ Technologies
+## Technologies
 
 <p>
 <img src="https://img.shields.io/badge/-JavaScript-000?style=flat-square&logo=javascript"/>
@@ -27,7 +27,7 @@ I'm Carl, a BS Computer Engineering student who learns by breaking things and fi
 
 <br/>
 
-## ◆ Statistics
+## Statistics
 
 <div align="center">
 <img src="https://streak-stats.demolab.com/?user=CarlErosa&theme=tokyonight&hide_border=true&background=0d1117&ring=8b5cf6&fire=a78bfa&currStreakLabel=a78bfa" width="60%"/>
